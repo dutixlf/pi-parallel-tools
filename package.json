@@ -1,0 +1,14 @@
+{
+  "name": "pi-parallel-tools",
+  "version": "1.0.0",
+  "description": "Background execution for pi's built-in tools: background=true on bash/read/grep/find/ls plus job_poll",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*",
+    "typebox": "*"
+  }
+}
